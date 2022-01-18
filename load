@@ -15,7 +15,7 @@ local CurrentCamera = Workspace.CurrentCamera
 local DaHoodSettings = {
     Prediction = 0.154,
 
-    SilentAim = false,
+    SilentAim = true,
     PingBasedPred = false,
     AimLock = false,
     AimLockKeybind = Enum.KeyCode.E,
